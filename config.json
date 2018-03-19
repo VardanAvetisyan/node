@@ -1,0 +1,5 @@
+{
+  "mongodb":{
+    "url":"mongodb://test:test@ds131546.mlab.com:31546/forum"
+  }
+}
